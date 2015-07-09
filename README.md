@@ -28,7 +28,7 @@ Look for container IP
 dokcer inspect lamp | grep IPAddress
 ```
 
-http://<containerIP>/
+http://containerIP/
 
 # mount your php site
 
