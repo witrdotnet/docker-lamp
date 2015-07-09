@@ -2,6 +2,8 @@
 
 Dockerized LAMP (Linux Apache Mysql Php)
 
+[Checkout Dockerfile from github](https://github.com/witrdotnet/docker-lamp)
+
 # Build new image
 
 You can build new LAMP image
@@ -16,7 +18,7 @@ docker run --name lamp -t mylamp
 You can pull your docker image from [docker hub (witrdotnet)](https://registry.hub.docker.com/u/witrdotnet/docker-lamp)
 
 ```
-dokcer pull witrdotnet/docker-lamp
+docker pull witrdotnet/docker-lamp
 docker run --name lamp -t witrdotnet/docker-lamp
 ```
 
@@ -25,7 +27,7 @@ docker run --name lamp -t witrdotnet/docker-lamp
 Look for container IP
 
 ```
-dokcer inspect lamp | grep IPAddress
+docker inspect lamp | grep IPAddress
 ```
 
 http://containerIP/
