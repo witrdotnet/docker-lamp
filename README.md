@@ -13,7 +13,7 @@ docker run --name lamp -t mylamp
 
 # Pull already built image
 
-You can pull your docker image from here[https://registry.hub.docker.com/u/witrdotnet/docker-lamp]
+You can pull your docker image from [docker hub (witrdotnet)](https://registry.hub.docker.com/u/witrdotnet/docker-lamp)
 
 ```
 dokcer pull witrdotnet/docker-lamp
