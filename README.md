@@ -1,2 +1,3 @@
 # docker-lamp
-dockerfile for lamp
+
+dockerfile for LAMP (Linux Apache Mysql Php)
