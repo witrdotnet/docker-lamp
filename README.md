@@ -1,5 +1,7 @@
 # docker-lamp
 
+[![](https://imagelayers.io/badge/witrdotnet/docker-lamp:latest.svg)](https://imagelayers.io/?images=witrdotnet/docker-lamp:latest 'Get your own badge on imagelayers.io')
+
 Dockerized LAMP (Linux Apache Mysql Php)
 
 [Checkout Dockerfile from github](https://github.com/witrdotnet/docker-lamp)
